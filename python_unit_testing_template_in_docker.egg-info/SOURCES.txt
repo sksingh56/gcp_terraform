@@ -1,0 +1,6 @@
+README.md
+setup.py
+python_unit_testing_template_in_docker.egg-info/PKG-INFO
+python_unit_testing_template_in_docker.egg-info/SOURCES.txt
+python_unit_testing_template_in_docker.egg-info/dependency_links.txt
+python_unit_testing_template_in_docker.egg-info/top_level.txt
